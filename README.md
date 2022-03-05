@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashu Kumar</h1>
 <h3 align="center">I'm a Student of Chandigarh University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=captainaashu&label=Profile%20views&color=0e75b6&style=flat" alt="captainaashu" /> </p>
+<p align="left"> <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x6ivem4h71p6efx41aj6syitsgzw4jxcql3yle11&rid=giphy.gif&ct=g" alt="captainaashu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captainaashu" alt="captainaashu" /></a> </p>
 
