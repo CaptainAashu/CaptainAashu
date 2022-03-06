@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e478kgahxkymu039y4gy976lepox3z9jn82c1ozsocv&rid=giphy.gif&ct=g" alt="captainaashu" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captainaashu&" alt="captainaashu" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=captainaashu&" alt="captainaashu" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=captainaashu" alt="captainaashu" /></a> </p>
 
