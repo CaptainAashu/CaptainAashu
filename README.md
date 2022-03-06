@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">Hi 👋, I'm Aashu Kumar</h1>
-<h3 align="center">I'm a Student of Chandigarh University.</h3>
+<h3 align="center">I'm a Programmer and a Student of Chandigarh University.</h3>
 
 <p align="center"> <img src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e478kgahxkymu039y4gy976lepox3z9jn82c1ozsocv&rid=giphy.gif&ct=g" alt="captainaashu" /> </p>
 
