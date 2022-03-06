@@ -1,3 +1,4 @@
+<p align="center">
 <h1 align="center">Hi 👋, I'm Aashu Kumar</h1>
 <h3 align="center">I'm a Student of Chandigarh University.</h3>
 
@@ -24,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captainaashu&" alt="captainaashu" /></p>
 
+</p>
